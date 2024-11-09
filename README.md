@@ -62,7 +62,21 @@ The dataset includes the following fields:
 
 ### DATA CLEANING AND PREPARATIONS
 ---
-In the initial phase of the data cleaning and preparations, we perform the following actions;
-1. Data loading and inspection
+In the initial phase of the data cleaning and preparations, I perform the following actions;
+1. Data loading and inspection; data quality was ensured by correcting any spelling error.
 2. Handling missing variables
 3. Data cleaning and formatting
+4. Data import from Excel to SQL and Power BI
+
+### EXPLORATORY DATA ANALYSIS
+---
+EDA involved the exploring of the data to answer some questions about the data such as:
+This analysis will involve a deep exploration of the data to answer key questions that are essential for effective decision-making. These include:
+1. Retrieve the total number of customers from each region.
+2. Find the most popular subscription type by the number of customers.
+3. Find customers who canceled their subscription within 6 months.
+4. Calculate the average subscription duration for all customers.
+5. Find customers with subscriptions longer than 12 months.
+6. Calculate total revenue by subscription type.
+7. Find the top 3 regions by subscription cancellations.
+8. Find the total number of active and canceled subscriptions.
