@@ -8,6 +8,8 @@ This repository contains my final project 2 as a newbie Data Analyst, showing my
 
 [DATA SOURCES](#data-sources)
 
+[DATA DESCRIPTION](#data-description)
+
 [TOOLS USED](#tools-used)
 
 [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
@@ -18,6 +20,7 @@ This repository contains my final project 2 as a newbie Data Analyst, showing my
 
 [DATA VISUALIZATION](#data-visualization)
 
+
 ### PROJECT OVERVIEW
 ---
 This project involves the analysis o customer's data for a subscription service to identify segments and trends. This project aims at understanding customers behaviour, track subscription types and idetifying ket trends in cancellations snd renewals. the final deliverables is a Power BI dashboard to present the analysis.
@@ -26,7 +29,8 @@ This project involves the analysis o customer's data for a subscription service 
 ---
 Data used for this project was an excel data provided by the Incubator Hub LITA facilitators, the data was converted to CSV format, before importing to SQL, for easy and seamless analysis. 
 
-
+### DATA DESCRIPTION
+---
 The dataset includes the following fields:
 1. Customer ID: Unique identifier givemn to each customers
 2. Customer Name: Names of the customers
