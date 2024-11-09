@@ -44,15 +44,21 @@ The dataset includes the following fields:
     
 ### TOOLS USED
 ---
-- Microsoft Excel [Download here](https://www.microsoft.com)
-  1. For data cleaning
-  2. For analysis
-  3. For data visualization
-     
-- SQL- Structured Query Language [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2b7beaf97efb6b170d9dfff87f1b6a9f)
-  1. For querying of data
-     
-- Github for portfolio building [Click here to sign up](https://github.com/)
+1. Microsoft Excel [Download here](https://www.microsoft.com)
+- For Data Input
+- For Analysis
+- For Data Cleaning
+- For Data visualization
+  
+2. Microsoft SQL Server [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2b7beaf97efb6b170d9dfff87f1b6a9f)
+- To manage and querry data
+- Microsoft Power BI Download Here
+- For Data Transformation
+- Data modelling
+- To Create reports and dashboards that are collections of visuals.
+  
+4. GitHub [Click here to sign up](https://github.com/)
+- For Portfolio Building
 
 ### DATA CLEANING AND PREPARATIONS
 ---
